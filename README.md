@@ -1,6 +1,6 @@
 
 <h1>
-  Projeto Pokedex ministrado no curso Dev em Dobro do qual sou aluna"
+  Projeto Pokedex ministrado no curso Dev em Dobro do qual sou aluna.
 </h1>
 
 
