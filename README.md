@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img width="380" src="src/readme/pokedex.gif">
+  <img width="470" src="src/readme/pokedex.gif">
 </p>
